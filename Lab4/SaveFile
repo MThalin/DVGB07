@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Product>
+    <Name>Star Wars I - VI</Name>
+    <Number>101</Number>
+    <Amount>61</Amount>
+    <Price>500</Price>
+  </Product>
+  <Product>
+    <Name>Pulp Fiction</Name>
+    <Number>102</Number>
+    <Amount>10</Amount>
+    <Price>120</Price>
+  </Product>
+  <Product>
+    <Name>Some Funny DVD</Name>
+    <Number>103</Number>
+    <Amount>0</Amount>
+    <Price>90</Price>
+  </Product>
+  <Product>
+    <Name>Mötley Crue Mix</Name>
+    <Number>201</Number>
+    <Amount>12</Amount>
+    <Price>150</Price>
+  </Product>
+  <Product>
+    <Name>Darude - Sandstorm</Name>
+    <Number>202</Number>
+    <Amount>1</Amount>
+    <Price>1337</Price>
+  </Product>
+  <Product>
+    <Name>CS 1.6</Name>
+    <Number>301</Number>
+    <Amount>0</Amount>
+    <Price>50</Price>
+  </Product>
+  <Product>
+    <Name>CS:GO</Name>
+    <Number>302</Number>
+    <Amount>122</Amount>
+    <Price>150</Price>
+  </Product>
+  <Product>
+    <Name>Call of Duty Bundle</Name>
+    <Number>303</Number>
+    <Amount>999</Amount>
+    <Price>9999</Price>
+  </Product>
+</Inventory>

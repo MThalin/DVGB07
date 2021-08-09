@@ -1,0 +1,8 @@
+Star Wars I - VI;101;61;500
+Pulp Fiction;102;10;120
+Some Funny DVD;103;0;90
+Mötley Crue Mix;201;12;150
+Darude - Sandstorm;202;1;1337
+CS 1.6;301;0;50
+CS:GO;302;122;150
+Call of Duty Bundle;303;999;9999

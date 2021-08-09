@@ -1,0 +1,10 @@
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\bin\Debug\Lab3b.exe.config
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\bin\Debug\Lab3b.exe
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\bin\Debug\Lab3b.pdb
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.csprojAssemblyReference.cache
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.Form1.resources
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.Properties.Resources.resources
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.csproj.GenerateResource.cache
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.csproj.CoreCompileInputs.cache
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.exe
+C:\Users\TsoN\source\repos\Lab3b\Lab3b\obj\Debug\Lab3b.pdb
